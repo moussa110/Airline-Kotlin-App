@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Airlines</string>
+    <string name="search">Search</string>
+    <string name="Country">Country</string>
+    <string name="airlineDetails">Airline Details</string>
+    <string name="visit">visit</string>
+    <string name="slogan">Slogan</string>
+    <string name="headquarter">Headquarter</string>
+    <string name="name">Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="input_required">input required</string>
+    <string name="id">Id</string>
+    <string name="search_by_name">Search by name</string>
+    <string name="search_by_country">search by country</string>
+    <string name="search_by_id">Search by id</string>
+    <string name="add_new_airline">Add new airline</string>
+    <string name="airlines">Airlines</string>
+</resources>
